@@ -53,7 +53,6 @@ I'm spending time on :- <br>
 👉MERN full stack developement
 
 
-        <img src ="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" height="400px" width="450px">
 
 </body>
 </html>
