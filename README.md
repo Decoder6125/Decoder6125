@@ -7,84 +7,8 @@
     font-family: 'El Messiri', sans-serif;
 }
       
-#parent {
-  height: 40px;
-  white-space: nowrap;
-  overflow: hidden; 
-  font-family: 'Source Code Pro', monospace;  
-  font-size: 28px;
-  color: black;
-  position: relative;
-}
-
-#border {
-  border-bottom: solid 3px tomato;
-  position: absolute;
-  right: -7px;
-  width: 20px;
-}
-
-/* Animation */
-#parent {
-  animation: animated-text 2s steps(30,end) 1s 1 normal both
-}
-
-#border {
-   animation: animated-cursor 600ms steps(30,end) infinite;
-}
-
-/* text animation */
-
-@keyframes animated-text{
-  from{width: 0;}
-  to{width: 530px;}
-}
-
-/* cursor animations */
-
-@keyframes animated-cursor{
-  from{border-bottom-color: rgba(0,255,0,.75);}
-  to{border-bottom-color: transparent;}
-}
 
 
-
-
-
-
-
-
-
-        .container {
-            width: 90%;
-            height: 400px;
-            background:white;
-            display: flex;
-            justify-content: space-around;
-        }
-
-
-        .container .left {
-            width: 60%;
-            background: white;
-            margin-left: 0;
-        }
-
-        
-        .container .right {
-            width: 40%;
-            background: white;
-        }
-
-        .container .left .top-left {
-            top: 0;
-            width: 100%;
-            background: white;
-            height: 80px;
-        
-        }
-
-    </style>
   <meta charset="utf-8">
   <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=El+Messiri&display=swap" rel="stylesheet">
