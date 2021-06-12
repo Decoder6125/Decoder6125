@@ -1,18 +1,15 @@
-<!doctype html>
+
 
 <html lang="en">
 <head>
-    <style>
-* {
-    font-family: 'El Messiri', sans-serif;
-}
+
+
       
 
 
   <meta charset="utf-8">
   <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=El+Messiri&display=swap" rel="stylesheet">
-  <title>The HTML5 Herald</title>
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
@@ -35,7 +32,6 @@
 
 
   </p>
-<center>
 <div class="container">
     <div class="left">
         <h3>Languages and Tools</h3>
@@ -56,19 +52,8 @@ I'm spending time on :- <br>
 👉Data structures and Algorithms <br>
 👉MERN full stack developement
 
-    </div>
 
-
-
-
-
-    <div class="right">
         <img src ="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" height="400px" width="450px">
-    </div>
-</div>
-</center>
 
-
-  <script src="js/scripts.js"></script>
 </body>
 </html>
