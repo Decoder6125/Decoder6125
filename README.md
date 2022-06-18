@@ -18,10 +18,10 @@
 </head>
 
 <body>
-  <h2><div id="parent">Let's know about this random guy...<div id="border"></div></div></h2>
+  <h2><div id="parent">❓ Let's know about this random guy...<div id="border"></div></div></h2>
 
 
-  <p>Hi, I'm Debtanu Dey, a passionate self-taught Full Stack web developer... My passion for web applications 
+  <p>Hi👋, I'm Debtanu Dey, a passionate self-taught Full Stack web developer... My passion for web applications 
       lies with dreaming up ideas and making them come true with elegant interfaces. I specially take care in the user experience, architecture
       and quality of the things I build... <br><br>
 
