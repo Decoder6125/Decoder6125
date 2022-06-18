@@ -52,7 +52,7 @@ I'm spending time on :- <br>
 👉Data structures and Algorithms <br>
 👉MERN full stack developement
           <center>
-          Coding Profiles <br>
+          Coding Profiles (Solved 220+ DSA problems) <br>
                 [Leetcode](https://leetcode.com/DebtanuDey/) | [Geeks For Geeks](https://auth.geeksforgeeks.org/user/dd3894/profile) | [Code Studio](https://www.codingninjas.com/codestudio/profile/51095e5b-5bf8-4dec-8bc3-d6f7b7681aff)
           </center>
          
