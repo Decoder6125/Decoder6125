@@ -52,6 +52,7 @@ I'm spending time on :- <br>
 👉Data structures and Algorithms <br>
 👉MERN full stack developement
 
+          My coding profiles <a href="https://leetcode.com/DebtanuDey/">Leetcode</a> | <a href="https://auth.geeksforgeeks.org/user/dd3894/profile">Geeks For Geeks</a> | <a href="https://www.codingninjas.com/codestudio/profile/51095e5b-5bf8-4dec-8bc3-d6f7b7681aff">CodeStudio</a>
 
 
 </body>
